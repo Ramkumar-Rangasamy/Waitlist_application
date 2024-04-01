@@ -1,0 +1,14 @@
+.main_div{
+    /* background-image:url('./pexels-torsten-dettlaff-674884.jpg') ; */
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size:100vw 100vh;   
+}
+.email{
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+}
+
